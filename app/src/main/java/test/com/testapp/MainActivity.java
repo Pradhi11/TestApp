@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("test","test");
         Log.d("test","test");
+        Log.d("test","update from testAppbranch2Develop");
 
         Log.d("test","branch 1 need to update master");
 
