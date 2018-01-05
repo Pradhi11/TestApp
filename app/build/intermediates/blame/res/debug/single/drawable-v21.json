@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/pradeep/TestApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/pradeep/.android/build-cache/2352f0b9f6e1b72cba8301c5e2423e51d8a98db7/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/pradeep/TestApp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/pradeep/.android/build-cache/bfaf121fc44cc347d51597c68625dce02520f9b0/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/pradeep/TestApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/pradeep/.android/build-cache/2352f0b9f6e1b72cba8301c5e2423e51d8a98db7/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/pradeep/TestApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/pradeep/.android/build-cache/2352f0b9f6e1b72cba8301c5e2423e51d8a98db7/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
