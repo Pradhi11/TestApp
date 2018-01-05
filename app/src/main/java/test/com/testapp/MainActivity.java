@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("test","test");
         Log.d("test","update from testAppbranch2Develop");
 
+        Log.d("test","branch 1 need to update master");
+
     }
 }
