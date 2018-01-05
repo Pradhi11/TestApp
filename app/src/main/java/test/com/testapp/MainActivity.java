@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("test","--branch 2 need to update master--");
 
-        Log.d("test","----------------------------------");
+        Log.d("test","-----------------------------------");
 
 
 
